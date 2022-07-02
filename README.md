@@ -1,4 +1,4 @@
-# confs
+# dots
 arch conf files
 
 Package list:
