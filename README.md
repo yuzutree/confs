@@ -1,5 +1,5 @@
 # dots
-arch conf files
+conf files
 
 Package list:
 
