@@ -3,9 +3,7 @@ arch conf files
 
 Package list:
 
-wifi:     iwd
-          dhcpcd
-          networkmanager
+network:  networkmanager
           
 wm:       bspwm
           sxhkd
